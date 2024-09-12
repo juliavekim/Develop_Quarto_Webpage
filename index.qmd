@@ -1,0 +1,34 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: github 
+      text: GitHub 
+      href: https://github.com/julia-ve-kim 
+    - icon: instagram
+      text: Instagram 
+      href: https://www.instagram.com/julia.ve.turner/  
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/julia-kim-b6224b205/ 
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.juliaym.kim@mail.utoronto.ca"  
+---
+
+::: {#about-block}
+:::
+
+# Hello and nice to virtually meet you! 😊 
+
+I am in my senior year of an undergraduate course in mathematics, physics, and statistics and the University of Toronto. Next year, I will embark on doctoral studies in one of these three fields of study, very likely in the United States. I am presently sitting my interviews for my graduate programs, being fortunate enough to have already received some letters of admissions from Ph.D. programs at Yale and Stanford.
+
+In my graduate studies, I intend to specialise in the study of random systems and stochastic methods. My primary interest in this field arises from its tremendous applicability, in which it seeks to give a mathematical analysis of the intuitive notions of "chance" or "randomness" that are pertinent to almost every branch of knowledge. More specifically, I wish to focus on stochastic modelling and computation and, in particular, the foundations of machine learning. I hope to explore its applications to important problems in data science, finance or physical systems, with an eye to extracting information useful for modelling and prediction.
+
+During my time at the University of Toronto, I have learnt to greatly enjoy the academic life. This led me to take on a wide variety of research work, from economics to astronomy, in each of which I have been required to speculate over questions, for which solutions were unknown or not yet fully developed. My research projects have required me to perform intensive literature review, give presentations at conferences, and partake in the writing of three scientific papers for publication. More about my research projects can be found in the [Research](#research-section) section. 
+
+Presently, I am eager to contiue my academic journey abroad and to help advance knowledge in my chosen field. I look very much forward to the opportunities and challenges that lie in my doctoral studies and beyond. 🚀
+
+Please feel free to [reach out](mailto:mail.juliaym.kim@mail.utoronto.ca) if you have any questions or would like to further discuss. 
